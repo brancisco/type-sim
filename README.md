@@ -47,6 +47,6 @@ is your name?"
 
 ## TODO
 
-[ ] write a little BNF grammar to show what the littler type-sim language can do.
-[ ] throw errors when syntax is incorrect
-[ ] write some dang tests
+- [ ] write a little BNF grammar to show what the littler type-sim language can do.
+- [ ] throw errors when syntax is incorrect
+- [ ] write some dang tests
